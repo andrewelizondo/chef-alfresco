@@ -8,7 +8,6 @@ version          "0.4.2"
 
 depends "artifact-deployer"
 depends "imagemagick"
-depends "file"
 depends "java"
 depends "mysql"
 depends "database"
